@@ -1,0 +1,10 @@
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\bin\Debug\WindowsApplication3.exe.config
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\usuario\onedrive\documentos\visual studio 2012\Projects\WindowsApplication1\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
